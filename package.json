@@ -1,0 +1,15 @@
+{
+  "name": "book",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "iconv-lite": "^0.4.19",
+    "request": "^2.83.0",
+    "sync-request": "^4.1.0"
+  }
+}
